@@ -1,4 +1,11 @@
+Einfach die index.php öffnen und das Programm läuft schon im Browser
 
-just open the Index.php and it runs
+Man kann die Maschine mit simplen Sätzen Subjekt Prädikat Objekt füttern, zu denen es dann Fragen gestellt werden könnten.
 
-You can talk to the machine, it can hear you, it learns from your sentences and you can load Nomen-Data from Wikipedia
+Beispiel:
+Eingabe: Karl ist blau
+Die Maschine lernt den Satz
+Eingabe: Was ist Karl
+Ausgabe: blau
+
+
