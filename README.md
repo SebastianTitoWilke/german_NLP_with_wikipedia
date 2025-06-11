@@ -1,6 +1,6 @@
 Einfach die index.php öffnen und das Programm läuft schon im Browser
 
-Man kann die Maschine mit simplen Sätzen Subjekt Prädikat Objekt füttern, zu denen es dann Fragen gestellt werden könnten.
+Man kann die Maschine mit simplen Sätzen Subjekt Prädikat Objekt füttern, zu denen es dann Fragen gestellt werden können.
 
 Beispiel:
 
